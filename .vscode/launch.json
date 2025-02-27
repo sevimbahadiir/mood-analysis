@@ -1,0 +1,14 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open mood_analysis.htm",
+            "file": "c:\\Users\\sevim\\OneDrive\\Belgeler\\GitHub\\mood-analysis\\templates\\mood_analysis.htm"
+        }
+    ]
+}
